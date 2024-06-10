@@ -1,0 +1,31 @@
+
+Preparação Aula 1 
+https://www.alura.com.br/artigos/flask-instalacao
+inicio com Flask 
+
+pip3 freeze
+Mostra tudo que está instalado na maquina ou no 
+ambiente virtual 
+
+Exporta todos recursos naquele app para um arquivo .txt
+pip3 freeze > requirements.txt 
+
+
+
+No caso se for baixa um app
+# pip3 install -r requirements.txt 
+instala todos que o app precisa para funcionar 
+
+Ensinamentos - Aula 2 
+https://www.youtube.com/watch?v=Pz9rayiDHW0
+
+
+
+
+
+
+
+
+
+
+
